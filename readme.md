@@ -2,13 +2,16 @@
 
 # 2020ShanghaiTech特供版
 
+- SI100B 2020真的出了好多瓜
+- 欢迎添加更多梗<del>或直接来我寝室对线</del>
+
 ## 概述
 
 将专业术语和名人名言以随机报菜名（背书单）的方式填入模板，生成一篇只有聪明人才能看懂的满分作文！
 
 ## 体验网址
 
-[一键生成满分作文！](http://beautyyu.one/full-mark-composition-generator/)
+[一键生成满分作文！](https://guiltyinnocence.github.io/fullmarkSI100B)
 
 ## Todo
 
